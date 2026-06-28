@@ -1,0 +1,4 @@
+#EXTM3U
+
+#EXT-X-STREAM-INF:BANDWIDTH=2500000,RESOLUTION=1080×1920
+http://cdn-2.mip8k.com/live/joe1df6a78uq19/2pengqlkzrfew1/1952701.m3u8
